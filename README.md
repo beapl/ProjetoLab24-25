@@ -1,3 +1,3 @@
 # ProjetoLab24-25
 Repositório para o projeto de Laboratório de Projeto em Engenharia Informática dos alunos 78505 e 79089.
-\nEntregáveis do Projeto: Jogo feito no motor Unity.
+Entregáveis do Projeto: Jogo feito no motor Unity.
